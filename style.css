@@ -1,0 +1,67 @@
+body{
+  background-image:url(img/background.jpg);
+  background-size: 1550px;
+  font-family: 'Roboto Slab', serif;
+}
+
+
+.container{
+  width: 60%;
+  margin: auto;
+  padding: 50px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  background: rgba(0, 0, 0, 0.5);
+
+}
+
+h2{
+  color: #49FF00;
+}
+
+header, nav{
+  text-align: center;
+}
+
+nav {
+background-color:#49FF00;
+padding: 10px;
+}
+
+section{
+  padding-top: 20px;
+  color: white;
+  height: 100%;
+}
+
+#imagine {
+  width: 200px;
+}
+
+.monopattino{
+  font-size: 20px;
+}
+
+.via{
+  font-size: 13px;
+}
+
+.barra1, .barra2, .barra3 {
+  height: 20px;
+  border-radius: 5px;
+}
+
+.barra1{
+  background-color: orange;
+  width: 240px;
+}
+
+.barra2{
+  background-color: green;
+  width: 440px;
+}
+
+.barra3{
+    background-color: red;
+    width: 120px;
+  }
